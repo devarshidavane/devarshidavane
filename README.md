@@ -80,10 +80,7 @@ Let's make the digital world **safer together!** 🔐🚀
 
 ---
 
-## 📝 Random Developer Quote
+## 📝 Random CyberSecurity Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=devarshidavane&icon=0&color=0)](https://visitcount.itsvg.in)
+> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
+> — **Gene Spafford**
