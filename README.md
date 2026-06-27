@@ -68,7 +68,6 @@ Let's make the digital world **safer together!** 🔐🚀
 
 - 🦠 **Secure Drive** — Python-based antivirus with MD5/SHA-256 hash detection, threat intelligence feeds & real-time forensic log generation
 - 📊 **Log Analysis & Threat Detection Dashboard** — SIEM-like tool detecting Windows Event Log anomalies mapped to MITRE ATT&CK techniques
-- ⚖️ **Legal-Lens** — AI-powered legal document analysis system with secure API authentication and NLP-based risk detection
 
 ---
 
