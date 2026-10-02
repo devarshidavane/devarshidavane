@@ -19,7 +19,7 @@
 
 <br><br>
 
-<img src="ah-projects.svg" width="100%" alt="Projects">
+<img src="h-projects.svg" width="100%" alt="Projects">
 
 <div align="center">
   <a href="https://github.com/devarshidavane/SecureDrive">
