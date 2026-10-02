@@ -1,85 +1,79 @@
-# 💫 About Me
+<h1 align="center">Devarshi Davane</h1>
 
-Hi there 👋, I'm **Devarshi Davane** — a passionate **Cybersecurity Enthusiast**.  
-I love building **security tools** and diving deep into **threat detection and malware analysis**.  
-Here you'll find repositories reflecting my journey into **offensive and defensive cybersecurity**.  
-Let's make the digital world **safer together!** 🔐🚀
+<p align="center">
+  <b>Aspiring SOC Analyst &nbsp;|&nbsp; Malware Analysis &nbsp;|&nbsp; Detection Engineering</b><br>
+  Computer Engineering graduate · Mumbai, India · Immediate joiner
+</p>
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devarshidavane)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:davanedevarshi@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devarshidavane)
+<p align="center">
+  <a href="https://linkedin.com/in/devarshidavane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/devarshidavane"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## About
 
-### 🔐 Cybersecurity Skills
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-%23E34F26.svg?style=flat&logoColor=white)
-![VAPT](https://img.shields.io/badge/VAPT-%23121011.svg?style=flat&logoColor=white)
-![SOC Operations](https://img.shields.io/badge/SOC%20Operations-%230175C2.svg?style=flat&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-%23F7931E.svg?style=flat&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-%23239120.svg?style=flat&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-%23CC2927.svg?style=flat&logoColor=white)
-![IOC Identification](https://img.shields.io/badge/IOC%20Identification-%2300ADD8.svg?style=flat&logoColor=white)
-![Static & Dynamic Analysis](https://img.shields.io/badge/Static%20%26%20Dynamic%20Analysis-%23430098.svg?style=flat&logoColor=white)
+I'm a Computer Engineering graduate (B.E., Mumbai University, 2025) focused on **blue-team security**: detecting threats in logs, analysing malware, and mapping what I find to the **MITRE ATT&CK** framework.
 
-### 🛠️ Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%230E83CD.svg?style=flat&logoColor=white)
-![Any.run](https://img.shields.io/badge/Any.run-%23E34F26.svg?style=flat&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-%23394EFF.svg?style=flat&logoColor=white)
-![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-%23121011.svg?style=flat&logoColor=white)
+I learn by building. My projects are working tools and labs that detect, log, and explain malicious activity, and I'm currently looking for an entry-level role as an **L1 SOC Analyst** or **Malware Analyst**.
 
-### 🧑‍💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-### 🖥️ Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=flat&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-### 📐 Frameworks
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-%23E34F26.svg?style=flat&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=flat&logo=owasp&logoColor=white)
+**Currently**
+- Completing the TryHackMe **SOC Level 1** path
+- Building an **ATT&CK emulation and detection lab** with Wazuh SIEM on Proxmox
+- Writing up malware analysis findings on public samples
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Devarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devarshidavane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devarshidavane&theme=vue-dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarshidavane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=devarshidavane&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+| Project | What it does | Stack |
+|---|---|---|
+| **[Secure Drive](https://github.com/devarshidavane/SecureDrive)** | Python antivirus that detects malware using MD5 / SHA-256 hash matching, integrates threat intelligence feeds (MalwareBazaar), and generates real-time forensic logs. | `Python` |
+| **[SOC Log Analysis Dashboard](https://github.com/devarshidavane/SOC-Log-Analysis-Dashboard)** | SIEM-style tool that detects Windows Event Log anomalies and maps each detection to MITRE ATT&CK techniques. | `Python` `MITRE ATT&CK` |
+| **[ARC: Adaptive Response Correlation](https://github.com/devarshidavane/ARC-Adaptive-Response-Correlation-)** | Adaptive response and event correlation project. | `JavaScript` |
+| **ATT&CK Emulation & Detection Lab** *(in progress)* | Home lab on Proxmox with a Wazuh SIEM: emulate ATT&CK techniques, then write and tune detections for them. | `Wazuh` `Proxmox` |
 
 ---
 
-## 🚀 Projects & Contributions
+## Skills
 
-- 🦠 **Secure Drive** — Python-based antivirus with MD5/SHA-256 hash detection, threat intelligence feeds & real-time forensic log generation
-- 📊 **Log Analysis & Threat Detection Dashboard** — SIEM-like tool detecting Windows Event Log anomalies mapped to MITRE ATT&CK techniques
-
----
-
-## 📜 Certifications
-
-- 🟡 TryHackMe — SOC Level 1 Path *(in progress)*
-- ✅ Ethical Hacking — Internshala
-- ✅ Linux — IIT Bombay (Spoken Tutorial)
+| Area | Tools & Concepts |
+|---|---|
+| **SOC & Detection** | Log analysis · SIEM concepts · Windows Event Logs · IOC identification · Incident response fundamentals |
+| **Malware Analysis** | Static & dynamic analysis · VirusTotal · MalwareBazaar · Any.run |
+| **Application Security** | Burp Suite · OWASP Top 10 · VAPT fundamentals |
+| **Network & Recon** | Wireshark · Nmap |
+| **Frameworks** | MITRE ATT&CK · OWASP |
+| **Languages & Platforms** | Python · Bash · Kali Linux · Linux · Windows |
 
 ---
 
-## 📝 Random CyberSecurity Quote
+## Experience
 
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
-> — **Gene Spafford**
+**VAPT Intern**, Ekeeda Private Limited &nbsp;·&nbsp; Feb 2022 – Jun 2022
+Application security testing using Burp Suite.
+
+---
+
+## Education
+
+- **B.E. Computer Engineering**, Datta Meghe College of Engineering, Mumbai University (2022 – 2025)
+- **Diploma**, Government Polytechnic Mumbai (2019 – 2022)
+
+---
+
+## Certifications & Learning
+
+| Credential | Status |
+|---|---|
+| TryHackMe: SOC Level 1 | In progress |
+| Ethical Hacking: Internshala | Completed |
+| Linux: IIT Bombay (Spoken Tutorial) | Completed |
+
+---
+
+## Let's Connect
+
+I'm open to **L1 SOC Analyst** and **Malware Analyst** opportunities and happy to talk about detection, malware analysis, or anything blue-team.
+Reach me on [LinkedIn](https://linkedin.com/in/devarshidavane).
