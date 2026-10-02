@@ -1,79 +1,47 @@
-<h1 align="center">Devarshi Davane</h1>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Devarshi Davane. L1 SOC Analyst and Malware Analyst focused on threat detection, log analysis and MITRE ATT&CK. Open to work, immediate joiner.">
+  <br><br>
+  <a href="https://linkedin.com/in/devarshidavane"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn: linkedin.com/in/devarshidavane"></a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/devarshidavane"><img src="assets/btn-tryhackme.svg" height="40" alt="TryHackMe: tryhackme.com/p/devarshidavane"></a>
+</div>
 
-<p align="center">
-  <b>Aspiring SOC Analyst &nbsp;|&nbsp; Malware Analysis &nbsp;|&nbsp; Detection Engineering</b><br>
-  Computer Engineering graduate · Mumbai, India · Immediate joiner
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/devarshidavane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/devarshidavane"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-</p>
+<img src="assets/h-about.svg" width="100%" alt="About">
+<img src="assets/terminal.svg" width="100%" alt="Devarshi Davane is a Computer Engineering graduate (B.E., Mumbai University, 2025) focused on blue-team security: threat detection, malware analysis and MITRE ATT&CK mapping. Currently completing TryHackMe SOC Level 1 and building an ATT&CK emulation and detection lab. Open to L1 SOC Analyst and Malware Analyst roles.">
 
----
+<br><br>
 
-## About
+<img src="assets/h-projects.svg" width="100%" alt="Projects">
+<div align="center">
+  <a href="https://github.com/devarshidavane/SecureDrive"><img src="assets/card-secure-drive.svg" width="49%" alt="Secure Drive: Python antivirus using MD5 and SHA-256 hash detection, threat intelligence feeds and real-time forensic logs."></a>
+  <a href="https://github.com/devarshidavane/SOC-Log-Analysis-Dashboard"><img src="assets/card-log-dashboard.svg" width="49%" alt="SOC Log Analysis Dashboard: SIEM-style dashboard that flags Windows Event Log anomalies and maps them to MITRE ATT&CK techniques."></a>
+  <br><br>
+  <a href="https://github.com/devarshidavane/ARC-Adaptive-Response-Correlation-"><img src="assets/card-arc.svg" width="49%" alt="ARC: Adaptive Response Correlation, built with JavaScript."></a>
+  <img src="assets/card-lab.svg" width="49%" alt="ATT&CK Detection Lab: Wazuh SIEM on Proxmox to emulate ATT&CK techniques and write detections. In progress.">
+</div>
 
-I'm a Computer Engineering graduate (B.E., Mumbai University, 2025) focused on **blue-team security**: detecting threats in logs, analysing malware, and mapping what I find to the **MITRE ATT&CK** framework.
+<br><br>
 
-I learn by building. My projects are working tools and labs that detect, log, and explain malicious activity, and I'm currently looking for an entry-level role as an **L1 SOC Analyst** or **Malware Analyst**.
+<img src="assets/h-skills.svg" width="100%" alt="Skills">
+<img src="assets/skills.svg" width="100%" alt="Skills. Detection and response: log analysis, SIEM concepts, Windows Event Logs, IOC identification, incident response, threat intelligence, SOC operations. Malware analysis: static and dynamic analysis, VirusTotal, MalwareBazaar, Any.run. Application security: Burp Suite, VAPT, web app testing. Network and recon: Wireshark, Nmap. Frameworks: MITRE ATT&CK, OWASP. Languages and platforms: Python, Bash, JavaScript, Kali Linux, Linux, Windows.">
 
-**Currently**
-- Completing the TryHackMe **SOC Level 1** path
-- Building an **ATT&CK emulation and detection lab** with Wazuh SIEM on Proxmox
-- Writing up malware analysis findings on public samples
+<br><br>
 
----
+<img src="assets/h-timeline.svg" width="100%" alt="Education and experience">
+<img src="assets/timeline.svg" width="100%" alt="Diploma at Government Polytechnic Mumbai, 2019 to 2022. VAPT internship at Ekeeda Private Limited, February to June 2022, using Burp Suite. B.E. at Datta Meghe College of Engineering, Mumbai University, 2022 to 2025. TryHackMe SOC Level 1 and an ATT&CK lab are in progress.">
 
-## Featured Projects
+<br><br>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Secure Drive](https://github.com/devarshidavane/SecureDrive)** | Python antivirus that detects malware using MD5 / SHA-256 hash matching, integrates threat intelligence feeds (MalwareBazaar), and generates real-time forensic logs. | `Python` |
-| **[SOC Log Analysis Dashboard](https://github.com/devarshidavane/SOC-Log-Analysis-Dashboard)** | SIEM-style tool that detects Windows Event Log anomalies and maps each detection to MITRE ATT&CK techniques. | `Python` `MITRE ATT&CK` |
-| **[ARC: Adaptive Response Correlation](https://github.com/devarshidavane/ARC-Adaptive-Response-Correlation-)** | Adaptive response and event correlation project. | `JavaScript` |
-| **ATT&CK Emulation & Detection Lab** *(in progress)* | Home lab on Proxmox with a Wazuh SIEM: emulate ATT&CK techniques, then write and tune detections for them. | `Wazuh` `Proxmox` |
+<img src="assets/h-next.svg" width="100%" alt="Next up">
+<img src="assets/roadmap.svg" width="100%" alt="Planned projects: YARA Rule Generator, PE File Inspector, C2 Traffic Fingerprinter.">
 
----
+<br><br>
 
-## Skills
+<img src="assets/h-certs.svg" width="100%" alt="Certifications">
+<img src="assets/certs.svg" width="100%" alt="Ethical Hacking (Internshala, completed). Linux (IIT Bombay Spoken Tutorial, completed). TryHackMe SOC Level 1 (in progress).">
 
-| Area | Tools & Concepts |
-|---|---|
-| **SOC & Detection** | Log analysis · SIEM concepts · Windows Event Logs · IOC identification · Incident response fundamentals |
-| **Malware Analysis** | Static & dynamic analysis · VirusTotal · MalwareBazaar · Any.run |
-| **Application Security** | Burp Suite · OWASP Top 10 · VAPT fundamentals |
-| **Network & Recon** | Wireshark · Nmap |
-| **Frameworks** | MITRE ATT&CK · OWASP |
-| **Languages & Platforms** | Python · Bash · Kali Linux · Linux · Windows |
+<br><br>
 
----
-
-## Experience
-
-**VAPT Intern**, Ekeeda Private Limited &nbsp;·&nbsp; Feb 2022 – Jun 2022
-Application security testing using Burp Suite.
-
----
-
-## Education
-
-- **B.E. Computer Engineering**, Datta Meghe College of Engineering, Mumbai University (2022 – 2025)
-- **Diploma**, Government Polytechnic Mumbai (2019 – 2022)
-
----
-
-## Certifications & Learning
-
-| Credential | Status |
-|---|---|
-| TryHackMe: SOC Level 1 | In progress |
-| Ethical Hacking: Internshala | Completed |
-| Linux: IIT Bombay (Spoken Tutorial) | Completed |
-
----
-
-## Let's Connect
-
-I'm open to **L1 SOC Analyst** and **Malware Analyst** opportunities and happy to talk about detection, malware analysis, or anything blue-team.
-Reach me on [LinkedIn](https://linkedin.com/in/devarshidavane).
+<img src="assets/footer.svg" width="100%" alt="Available now, no notice period, based in Mumbai, India. Looking for an L1 SOC or malware analyst role.">
