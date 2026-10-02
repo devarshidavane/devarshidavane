@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 318" width="1000" height="318" role="img" aria-labelledby="t d">
+<title id="t">Terminal summary</title>
+<desc id="d">Devarshi Davane is a Computer Engineering graduate focused on blue-team security. Currently completing TryHackMe SOC Level 1 and building an ATT&amp;CK emulation and detection lab. Open to L1 SOC Analyst and Malware Analyst roles.</desc>
+<defs></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%{opacity:.15}50%{opacity:1}100%{opacity:.15}}
+@keyframes ping{0%{transform:scale(.4);opacity:.9}100%{transform:scale(2.4);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.c{opacity:1!important}}
+.cur{animation:blink 1s steps(1) infinite}</style>
+<rect x=".5" y=".5" width="999" height="317" rx="10" fill="#0C1424" stroke="#1D2B47"/><path d="M.5 36H999.5V10.5A10 10 0 0 0 989.5 .5H10.5A10 10 0 0 0 .5 10.5Z" fill="#111C31"/><line x1="0" y1="36.5" x2="1000" y2="36.5" stroke="#1D2B47"/><rect x="16" y="14" width="3" height="10" fill="#38E8FF"/><text class="m" x="28" y="24" font-size="13" fill="#8FA3C4">devarshi@mumbai: ~</text><text class="m" x="24" y="70" font-size="15" fill="#4DF0A8">$</text><text class="m" x="44" y="70" font-size="15" fill="#E6EEFB">whoami</text><text class="m" x="44" y="95" font-size="15" fill="#E6EEFB">Devarshi Davane, Computer Engineering graduate (B.E., Mumbai University, 2025)</text><text class="m" x="24" y="126" font-size="15" fill="#4DF0A8">$</text><text class="m" x="44" y="126" font-size="15" fill="#E6EEFB">cat focus.txt</text><text class="m" x="44" y="151" font-size="15" fill="#8FA3C4">Blue-team security: threat detection, malware analysis and MITRE ATT&amp;CK mapping.</text><text class="m" x="44" y="176" font-size="15" fill="#8FA3C4">I build tools that detect, log and explain malicious activity.</text><text class="m" x="24" y="207" font-size="15" fill="#4DF0A8">$</text><text class="m" x="44" y="207" font-size="15" fill="#E6EEFB">status --now</text><text class="m" x="44" y="232" font-size="15" fill="#FFB547">[in progress]</text><text class="m" x="190" y="232" font-size="15" fill="#E6EEFB">TryHackMe SOC Level 1</text><text class="m" x="44" y="257" font-size="15" fill="#FFB547">[in progress]</text><text class="m" x="190" y="257" font-size="15" fill="#E6EEFB">ATT&amp;CK emulation and detection lab (Wazuh SIEM on Proxmox)</text><text class="m" x="44" y="282" font-size="15" fill="#4DF0A8">[open]</text><text class="m" x="190" y="282" font-size="15" fill="#E6EEFB">L1 SOC Analyst and Malware Analyst roles, immediate joiner</text><text class="m" x="24" y="311" font-size="15" fill="#4DF0A8">$</text><rect class="cur" x="44" y="298" width="9" height="17" fill="#38E8FF"/>
+</svg>

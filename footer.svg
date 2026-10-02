@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 164" width="1000" height="164" role="img" aria-labelledby="t d">
+<title id="t">Closing banner</title>
+<desc id="d">Available now, no notice period, based in Mumbai, India.</desc>
+<defs><linearGradient id="ecg" x1="0" x2="1"><stop offset="0" stop-color="#38E8FF" stop-opacity="0"/><stop offset=".2" stop-color="#38E8FF"/><stop offset=".8" stop-color="#38E8FF"/><stop offset="1" stop-color="#38E8FF" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%{opacity:.15}50%{opacity:1}100%{opacity:.15}}
+@keyframes ping{0%{transform:scale(.4);opacity:.9}100%{transform:scale(2.4);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.c{opacity:1!important}}
+@keyframes draw{0%{stroke-dashoffset:1600}60%,100%{stroke-dashoffset:0}}.ecg{stroke-dasharray:1600;animation:draw 5s ease-in-out infinite}</style>
+<path d="M0 52H150L162 52L172 34L184 76L196 14L208 62L218 52H430L442 52L452 40L462 60L470 52H690L702 52L712 30L724 78L736 20L748 56L756 52H1000" fill="none" stroke="#1d2b47" stroke-width="2"/><path class="ecg" d="M0 52H150L162 52L172 34L184 76L196 14L208 62L218 52H430L442 52L452 40L462 60L470 52H690L702 52L712 30L724 78L736 20L748 56L756 52H1000" fill="none" stroke="url(#ecg)" stroke-width="2.2" stroke-linejoin="round"/><text x="500.0" y="116" font-size="24" font-weight="700" fill="#E6EEFB" text-anchor="middle" letter-spacing="-.2">Looking for an L1 SOC or malware analyst? Let's talk.</text><text class="m" x="500.0" y="148" font-size="13" fill="#8FA3C4" text-anchor="middle">status: available&#160;&#160;&#160;&#160;&#160;notice period: none&#160;&#160;&#160;&#160;&#160;location: Mumbai, India</text>
+</svg>

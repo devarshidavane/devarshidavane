@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 186" width="490" height="186" role="img" aria-labelledby="t d">
+<title id="t">ARC</title>
+<desc id="d">Adaptive Response Correlation. Built with JavaScript. Stack: JavaScript. Status: built.</desc>
+<defs></defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Menlo,Consolas,'Liberation Mono','Courier New',monospace}
+@keyframes on{to{opacity:1}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%{opacity:.15}50%{opacity:1}100%{opacity:.15}}
+@keyframes ping{0%{transform:scale(.4);opacity:.9}100%{transform:scale(2.4);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.c{opacity:1!important}}
+</style>
+<rect x=".5" y=".5" width="489" height="185" rx="10" fill="#0C1424" stroke="#1D2B47"/><rect x="0" y="16" width="3" height="154" rx="1.5" fill="#6C9CFF"/><rect x="22" y="22" width="40" height="40" rx="9" fill="#111C31" stroke="#1D2B47"/><g transform="translate(24,24)"><path d="M10 24L18 10L27 22L10 24" fill="none" stroke="#6C9CFF" stroke-width="1.5" stroke-linejoin="round"/><circle cx="10" cy="24" r="3" fill="#6C9CFF"/><circle cx="18" cy="10" r="3" fill="#6C9CFF"/><circle cx="27" cy="22" r="3" fill="#6C9CFF"/></g><text x="76" y="38" font-size="19" font-weight="700" fill="#E6EEFB">ARC</text><text class="m" x="76" y="57" font-size="12" fill="#8FA3C4">devarshidavane/ARC-Adaptive-Response-Correlation-</text><rect x="411.5" y="20" width="62.5" height="22" rx="11" fill="none" stroke="#4DF0A8" stroke-opacity=".7"/><circle cx="423.5" cy="31" r="3" fill="#4DF0A8"/><text class="m" x="432.5" y="35" font-size="11.5" fill="#4DF0A8">built</text><text x="22" y="94" font-size="14" fill="#8FA3C4">Adaptive Response Correlation.</text><text x="22" y="115" font-size="14" fill="#8FA3C4">Built with JavaScript.</text><rect x="22" y="142" width="89" height="24" rx="6" fill="none" stroke="#6C9CFF" stroke-opacity=".55"/><text class="m" x="66" y="158" font-size="11.5" fill="#E6EEFB" text-anchor="middle">JavaScript</text>
+</svg>
